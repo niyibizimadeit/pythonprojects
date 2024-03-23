@@ -1,6 +1,5 @@
 Webscrapper
 webcrawler
-Binary search algorithm
 Url shortner
 Instagram photo downloader
 youtube video downloader
@@ -22,6 +21,7 @@ Face detector
 Facial recognition 
 Whatsapp status buy
 Chatbot(SCIKIT LEARN AND NLTK)
+Quiz application
 
 https://www.interviewbit.com/blog/python-projects/
 
