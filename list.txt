@@ -1,0 +1,24 @@
+
+
+Webscrapper
+webcrawler
+Binary search algorithm
+Url shortner
+Instagram photo downloader
+youtube video downloader
+Plagiarism checker(google api)
+telegram chatbot
+Generate qr codes
+Movie recommendations 
+Stock market predictor
+
+
+
+Desktop assistant
+Voice assistant
+Speech recognition
+Speech changer
+Face detector
+Facial recognition 
+
+
