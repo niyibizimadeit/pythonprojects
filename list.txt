@@ -1,5 +1,3 @@
-
-
 Webscrapper
 webcrawler
 Binary search algorithm
@@ -7,18 +5,23 @@ Url shortner
 Instagram photo downloader
 youtube video downloader
 Plagiarism checker(google api)
+Whatsapp chat bot     
 telegram chatbot
 Generate qr codes
-Movie recommendations 
+Movie recommendations
+Stock market real time updates
 Stock market predictor
-
-
-
+Credit card fraud detection
+Crypto predictor
+Crypto updates
 Desktop assistant
 Voice assistant
 Speech recognition
 Speech changer
 Face detector
 Facial recognition 
+Whatsapp status buy
+Chatbot(SCIKIT LEARN AND NLTK)
+
 
 
