@@ -23,5 +23,5 @@ Facial recognition
 Whatsapp status buy
 Chatbot(SCIKIT LEARN AND NLTK)
 
-
+https://www.interviewbit.com/blog/python-projects/
 
