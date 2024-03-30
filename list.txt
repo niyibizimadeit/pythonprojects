@@ -7,10 +7,6 @@ Plagiarism checker(google api)
 Whatsapp chat bot     
 telegram chatbot
 Generate qr codes
-Movie recommendations
-Stock market real time updates
-Stock market predictor
-Credit card fraud detection
 Crypto predictor
 Crypto updates
 Desktop assistant
@@ -22,6 +18,4 @@ Facial recognition
 Whatsapp status buy
 Chatbot(SCIKIT LEARN AND NLTK)
 Quiz application
-
-https://www.interviewbit.com/blog/python-projects/
 
