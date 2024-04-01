@@ -7,8 +7,8 @@ Plagiarism checker(google api)
 Whatsapp chat bot     
 telegram chatbot
 Generate qr codes
-Crypto predictor
 Crypto updates
+Crypto predictor
 Desktop assistant
 Voice assistant
 Speech recognition
