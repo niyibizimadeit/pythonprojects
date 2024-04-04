@@ -17,5 +17,49 @@ Face detector
 Facial recognition 
 Whatsapp status buy
 Chatbot(SCIKIT LEARN AND NLTK)
-Quiz application
+Quiz application, then JAVA PROJECTS
+i can tell your siblings
+flappy bird
+school management
+inventory management
+billing system
+currency converter
+banking apemail app
+airline reservation
+smart city project
+grading system 
+online quiz system
+scientific calculator
+simple search engine
+online voting system
+online book store
+online cab booking
+weather forecast
+exam seating management
+chat app
+social network
+sudoku
+criminal face detection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
